@@ -7,4 +7,4 @@ Uploaded files:
 
 2:Week2-SoC.ipnyb-Used logistic regression of predicting a label,using iris dataset and also used Baye's Theorem to compare the accuracy.
 
-3:Week3_SoC.ipnyb-Implemented the principle ofPCAto normalise the data to2Dand visualising and used k-means clustering to represent the normalised data.
+3:Week3_SoC.ipnyb-Implemented the principle of PCA to normalise the data to 2D and used k-means clustering to represent the normalised data.
